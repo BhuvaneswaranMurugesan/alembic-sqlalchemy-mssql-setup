@@ -54,6 +54,7 @@ Alembic depends on SQLAlchemy to read these models and detect changes.
 
 🧰 Project Structure
 alembic-sqlalchemy-mssql-setup/
+
 │
 ├── alembic/                 # Migration scripts & env configuration
 │   ├── versions/            # Auto-generated migration files
