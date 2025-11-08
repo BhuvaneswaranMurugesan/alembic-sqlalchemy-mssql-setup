@@ -54,35 +54,21 @@ Alembic depends on SQLAlchemy to read these models and detect changes.
 
 🧰 Project Structure
 alembic-sqlalchemy-mssql-setup/
-
+```
 │
-
 ├── alembic/                 # Migration scripts & env configuration
-
 │   ├── versions/            # Auto-generated migration files
-
 │   └── env.py               # Alembic environment setup
-
 │
-
 ├── app/
-
 │   ├── core/
-
 │   │   └── database.py      # SQLAlchemy engine & Base setup
-
 │   └── models/
-
 │       └── user.py          # Example SQLAlchemy model
-
 │
-
 ├── .env                     # Database URL (ignored in Git)
-
 ├── alembic.ini              # Alembic config file
-
 ├── README.md
-
 └── requirements.txt
-
+```
 ### Note : The required packages and migration commands are provided in the migration-setup-alembic folder.
