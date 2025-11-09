@@ -27,6 +27,6 @@ alembic init alembic
 ```
 This will generate:
 
-- 1. alembic.ini → Configuration file
+- alembic.ini → Configuration file
 
-- 2. alembic/ → Folder containing migration environment and scripts
+- alembic/ → Folder containing migration environment and scripts
