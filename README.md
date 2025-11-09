@@ -77,4 +77,4 @@ alembic-sqlalchemy-mssql-setup/
 Created with ❤️ by [Bhuvaneswaran Murugesan](https://www.linkedin.com/in/bhuvaneswaranmurugesan/)
 
 📧 Email: bhuvaneshabi.5@gmail.com  
-🌐 GitHub: [bhuviabi](https://github.com/BhuvaneswaranMurugesan)
+🌐 GitHub: [BhuvaneswaranMurugesan](https://github.com/BhuvaneswaranMurugesan)
