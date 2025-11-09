@@ -97,7 +97,8 @@ Execution:
 
 This will create a new migration script under the versions/ folder inside your Alembic directory.
 
-🗂 Example structure:,
+🗂 Example structure:
+
 ![alt text](image-2.png)
 
 #### ⚙️ Step 2: Apply Migration to Database
