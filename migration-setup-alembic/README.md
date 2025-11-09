@@ -92,6 +92,7 @@ Run the following command to autogenerate a new migration file based on your mod
 alembic revision --autogenerate -m "create user table"
 ```
 Execution:
+
 ![alt text](image.png)
 
 This will create a new migration script under the versions/ folder inside your Alembic directory.
