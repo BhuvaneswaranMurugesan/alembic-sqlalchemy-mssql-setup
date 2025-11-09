@@ -72,3 +72,9 @@ alembic-sqlalchemy-mssql-setup/
 └── requirements.txt
 ```
 ### Note : The required packages and migration commands are provided in the migration-setup-alembic folder.
+
+### 💡 Author
+Created with ❤️ by [Bhuvaneswaran Murugesan](https://www.linkedin.com/in/bhuvaneswaranmurugesan/)
+
+📧 Email: bhuvaneshabi.5@gmail.com  
+🌐 GitHub: [bhuviabi](https://github.com/BhuvaneswaranMurugesan)
