@@ -18,3 +18,15 @@ To install them all at once, simply run:
 ```bash
 pip install -r requirements.txt
 ```
+
+### 🏗️ 2. Initialize Alembic
+
+Run this command inside your project root to create the Alembic directory:
+```bash
+alembic init alembic
+```
+This will generate:
+
+- 1. alembic.ini → Configuration file
+
+- 2. alembic/ → Folder containing migration environment and scripts
